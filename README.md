@@ -5,3 +5,5 @@ Jak nastavit repozitář?
 git clone
 
 JIŘÍ GABRIEL
+
+csc

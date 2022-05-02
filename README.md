@@ -13,3 +13,5 @@ test
 
     Set your email address:
     git config --global user.email "MY_NAME@example.com"
+
+Další commit

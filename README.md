@@ -6,4 +6,4 @@ git clone
 
 JIŘÍ GABRIEL
 
-csc
+
